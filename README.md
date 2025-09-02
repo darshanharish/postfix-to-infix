@@ -1,5 +1,5 @@
-# postfix-to-infix
-converting postfix to infix
+# infix-to-postfix
+converting infix to postfix
 def precedence(op):
     if op == '+' or op == '-':
         return 1
